@@ -1,7 +1,7 @@
-#Autores: Daniel  Carvalho e Augusto Alves
+# Autores: Daniel  Carvalho e Augusto Alves
 
-#Trabalho de Laboratório de Redes I: 
-#CryptoChat: Chat feito em Python 3.10 com criptografia RSA e servidor socket.
+# Trabalho de Laboratório de Redes I: 
+# CryptoChat: Chat feito em Python 3.10 com criptografia RSA e servidor socket.
 
 bibliotecas externas usadas:
 PyCryptoDome: pip install pycryptodome
