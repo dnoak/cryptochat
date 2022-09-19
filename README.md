@@ -1,4 +1,4 @@
-# CryptoChat: Chat feito em Python 3.10 com criptografia RSA e servidor socket.
+# CryptoChat: Chat feito em Python com criptografia RSA e servidor socket.
 
 #### Autores: Daniel  Carvalho e Augusto Alves
 
